@@ -1,0 +1,13 @@
+.idea/
+.idea_modules/
+*.iml
+*.swp
+.history
+tags
+.cabal-sandbox/
+cabal.sandbox.config
+dist/
+target/
+.stack-work/
+.ensime
+.ensime_cache/
